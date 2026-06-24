@@ -1,0 +1,5 @@
+node_modules/  
+dist/  
+.verdent-design/  
+.env  
+.DS_Store  
